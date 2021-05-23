@@ -20,4 +20,3 @@ To view the project open `http://localhost:3333`.
 2. Create your branch: `git checkout -b my-new-feature`;
 3. Commit your changes: `git commit -m 'Add some feature'`;
 4. Push to the branch: `git push origin my-new-feature`.
-
