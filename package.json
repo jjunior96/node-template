@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "@types/express": "^4.17.11"
+    "@types/express": "^4.17.12"
   },
   "devDependencies": {
     "@types/jest": "^26.0.23",
